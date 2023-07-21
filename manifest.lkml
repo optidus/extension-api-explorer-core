@@ -1,4 +1,4 @@
-project_name: "api-explorer"
+
 
 application: api-explorer {
   label: "API Explorer"
@@ -20,6 +20,6 @@ application: api-explorer {
 }
 
 constant: CONNECTION_NAME {
-  value: ""
+  value: "sudipto-bq-connection"
   export: override_optional
 }
